@@ -112,4 +112,4 @@ Watertight, crushproof polymer equipment case with Pick-N-Pluck foam for transpo
 
 
 
-I hope to eventually release its Companion App: "It’s A-Line!"
+I hope to eventually release FrankVish's Companion App: "It’s A-Line!"
